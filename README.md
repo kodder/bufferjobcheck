@@ -2,7 +2,7 @@
 
 
 - [x] Start ;)
-- [ ] Basic Skeleton
+- [x] Basic Skeleton
 - [ ] Create SMTP Server 
 - [ ] Test it quickly
 - [ ] Change it to a proper project
