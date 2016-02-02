@@ -1,0 +1,5 @@
+{
+    "backend":["aws","python","docker"],
+    "system":["aws","docker","linux","scaling"]
+    "administrator":["linux","networking"]
+}
